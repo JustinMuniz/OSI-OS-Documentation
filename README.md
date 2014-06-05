@@ -15,3 +15,9 @@ Directory       | Purpose
 /Manual Pages/9 |
 /Manual Pages/X |
 /Manual Pages/n |
+
+Tasks
+-----
+- [ ] Remove files that are not man pages, but are in man folders
+- [ ] Finish table above
+- [ ] Include repository purpose, goals, and relation to other repositories for this project
